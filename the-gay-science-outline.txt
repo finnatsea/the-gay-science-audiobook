@@ -1,0 +1,390 @@
+OUTLINE:
+00:00:00 - BOOK ONE
+00:00:07 - 1. The teachers of the purpose of existence
+00:08:01 - 2. The intellectual conscience
+00:10:09 - 3. Noble and common
+00:14:08 - 4. What preserves the species
+00:16:06 - 5. Unconditional duties
+00:18:10 - 6. Loss of dignity
+00:19:14 - 7. Something for the industrious
+00:22:13 - 8. Unconscious virtues
+00:23:59 - 9. Our eruptions
+00:25:00 - 10. A kind of atavism
+00:26:26 - 11. Consciousness
+00:28:24 - 12. On the aim of science
+00:30:15 - 13. On the doctrine of the feeling of power
+00:33:36 - 14. The things people call love
+00:37:33 - 15. From a distance
+00:38:31 - 16. Over the footbridge
+00:39:45 - 17. Finding motives for our poverty
+00:40:17 - 18. The pride of classical antiquity
+00:41:39 - 19. Evil
+00:42:19 - 20. The dignity of folly
+00:42:56 - 21. To the teachers of selfishness
+00:49:17 - 22. L’ordre du jour pour le roi
+00:51:44 - 23. The signs of corruption
+00:57:56 - 24. Diverse dissatisfaction
+00:59:59 - 25. Not predestined for knowledge
+01:00:50 - 26. What is life?
+01:01:22 - 27. The man of renunciation
+00:00:00 - 28. To be harmful with what is best in us
+00:00:00 - 29. Add lies
+00:00:00 - 30. The comedy played by the famous
+00:00:00 - 31. Trade and nobility
+00:00:00 - 32. Undesirable disciples
+00:00:00 - 33. Outside the lecture hall
+00:00:00 - 34. Historia abscondita
+00:00:00 - 35. Heresy and witchcraft
+00:00:00 - 36. Last words
+00:00:00 - 37. Owing to three errors
+00:00:00 - 38. The explosive ones
+00:00:00 - 39. Changed taste
+00:00:00 - 40. On the lack of noble manners
+00:00:00 - 41. Against remorse
+00:00:00 - 42. Work and boredom
+00:00:00 - 43. What laws betray
+00:00:00 - 44. Supposed motives
+00:00:00 - 45. Epicurus
+00:00:00 - 46. Our amazement
+00:00:00 - 47. On the suppression of the passions
+00:00:00 - 48. Knowledge of misery
+00:00:00 - 49. Magnanimity and related matters
+00:00:00 - 50. The argument of growing solitude
+00:00:00 - 51. Truthfulness
+00:00:00 - 52. What others know about us
+00:00:00 - 53. Where the good begins
+00:00:00 - 54. The consciousness of appearance
+00:00:00 - 55. The ultimate noblemindedness
+00:00:00 - 56. The craving for suffering
+00:00:00 - BOOK TWO
+00:00:00 - 57. To the realists
+00:00:00 - 58. Only as creators!
+00:00:00 - 59. We artists
+00:00:00 - 60. Women and their action at a distance
+00:00:00 - 61. In honor of friendship
+00:00:00 - 62. Love
+00:00:00 - 63. Woman in music
+00:00:00 - 64. Skeptics
+00:00:00 - 65. Devotion
+00:00:00 - 66. The strength of the weak
+00:00:00 - 67. Simulating—oneself
+00:00:00 - 68. Will and willingness
+00:00:00 - 69. Capacity for revenge
+00:00:00 - 70. Women who master the masters
+00:00:00 - 71. On female chastity
+00:00:00 - 72. Mothers
+00:00:00 - 73. Holy cruelty
+00:00:00 - 74. Failures
+00:00:00 - 75. The third sex
+00:00:00 - 76. The greatest danger
+00:00:00 - 77. The animal with a good conscience
+00:00:00 - 78. What should win our gratitude
+00:00:00 - 79. The attraction of imperfection
+00:00:00 - 80. Art and nature
+00:00:00 - 81. Greek taste
+00:00:00 - 82. Esprit as un-Greek
+00:00:00 - 83. Translations
+00:00:00 - 84. On the origin of poetry
+00:00:00 - 85. The good and the beautiful
+00:00:00 - 86. Of the theater
+00:00:00 - 87. Of the vanity of artists
+00:00:00 - 88. Being serious about truth
+00:00:00 - 89. Now and formerly
+00:00:00 - 90. Lights and shadows
+00:00:00 - 91. Caution
+00:00:00 - 92. Prose and poetry
+00:00:00 - 93. But why do you write?
+00:00:00 - 94. Growth after death
+00:00:00 - 95. Chamfort
+00:00:00 - 96. Two speakers
+00:00:00 - 97. Of the garrulousness of writers
+00:00:00 - 98. In praise of Shakespeare
+00:00:00 - 99. Schopenhauer’s followers
+00:00:00 - 100. Learning to pay homage
+00:00:00 - 101. Voltaire
+00:00:00 - 102. A remark for philologists
+00:00:00 - 103. Of German music
+00:00:00 - 104. Of the sound of the German language
+00:00:00 - 105. The Germans as artists
+00:00:00 - 106. Music as an advocate
+00:00:00 - 107. Our ultimate gratitude to art
+00:00:00 - BOOK THREE
+00:00:00 - 108. New struggles
+00:00:00 - 109. Let us beware
+00:00:00 - 110. Origin of knowledge
+00:00:00 - 111. Origin of the logical
+00:00:00 - 112. Cause and effect
+00:00:00 - 113. On the doctrine of poisons
+00:00:00 - 114. How far the moral sphere extends
+00:00:00 - 115. The four errors
+00:00:00 - 116. Herd instinct
+00:00:00 - 117. Herd remorse
+00:00:00 - 118. Benevolence
+00:00:00 - 119. No altruism!
+00:00:00 - 120. Health of the soul
+00:00:00 - 121. Life no argument
+00:00:00 - 122. Moral skepticism in Christianity
+00:00:00 - 123. Knowledge as more than a mere means
+00:00:00 - 124. In the horizon of the infinite
+00:00:00 - 125. The madman
+00:00:00 - 126. Mystical explanations
+00:00:00 - 127. Aftereffects of the most ancient religiosity
+00:00:00 - 128. The value of prayer
+00:00:00 - 129. The conditions for God
+00:00:00 - 130. A dangerous resolve
+00:00:00 - 131. Christianity and suicide
+00:00:00 - 132. Against Christianity
+00:00:00 - 133. Principle
+00:00:00 - 134. Pessimists as victims
+00:00:00 - 135. Origin of sin
+00:00:00 - 136. The chosen people
+00:00:00 - 137. Speaking in a parable
+00:00:00 - 138. Christ’s error
+00:00:00 - 139. The color of the passions
+00:00:00 - 140. Too Jewish
+00:00:00 - 141. Too Oriental
+00:00:00 - 142. Frankincense
+00:00:00 - 143. The greatest advantage of polytheism
+00:00:00 - 144. Religious wars
+00:00:00 - 145. Danger for vegetarians
+00:00:00 - 146. German hopes
+00:00:00 - 147. Question and answer
+00:00:00 - 148. Where reformations occur
+00:00:00 - 149. The failure of reformations
+00:00:00 - 150. On the critique of saints
+00:00:00 - 151. Of the origin of religion
+00:00:00 - 152. The greatest change
+00:00:00 - 153. Homo poeta
+00:00:00 - 154. Different types of dangerous lives
+00:00:00 - 155. What we lack
+00:00:00 - 156. Who is most influential
+00:00:00 - 157. Mentiri
+00:00:00 - 158. An inconvenient trait
+00:00:00 - 159. Every virtue has its age
+00:00:00 - 160. Dealing with virtues
+00:00:00 - 161. To those who love the age
+00:00:00 - 162. Egoism
+00:00:00 - 163. After a great victory
+00:00:00 - 164. Those who seek rest
+00:00:00 - 165. The happiness of those who have renounced something
+00:00:00 - 166. Always in our own company
+00:00:00 - 167. Misanthropy and love
+00:00:00 - 168. Of a sick man
+00:00:00 - 169. Open enemies
+00:00:00 - 170. With the crowd
+00:00:00 - 171. Fame
+00:00:00 - 172. Spoiling the taste
+00:00:00 - 173. Being profound and seeming profound
+00:00:00 - 174. Apart
+00:00:00 - 175. Of eloquence
+00:00:00 - 176. Pity
+00:00:00 - 177. On “the educational establishment”
+00:00:00 - 178. On moral enlightenment
+00:00:00 - 179. Thoughts
+00:00:00 - 180. A good age for free spirits
+00:00:00 - 181. Following and walking ahead
+00:00:00 - 182. In solitude
+00:00:00 - 183. The music of the best future
+00:00:00 - 184. Justice
+00:00:00 - 185. Poor
+00:00:00 - 186. Bad conscience
+00:00:00 - 187. Offensive presentation
+00:00:00 - 188. Work
+00:00:00 - 189. The thinker
+00:00:00 - 190. Against those who praise
+00:00:00 - 191. Against many a defense
+00:00:00 - 192. The good-natured
+00:00:00 - 193. Kant’s joke
+00:00:00 - 194. The “openhearted”
+00:00:00 - 195. Laughable
+00:00:00 - 196. Limits of our hearing
+00:00:00 - 197. Better watch out!
+00:00:00 - 198. Chagrin of the proud
+00:00:00 - 199. Liberality
+00:00:00 - 200. Laughter
+00:00:00 - 201. Applause
+00:00:00 - 202. A squanderer
+00:00:00 - 203. Hic niger est
+00:00:00 - 204. Beggars and courtesy
+00:00:00 - 205. Need
+00:00:00 - 206. When it rains
+00:00:00 - 207. The envious
+00:00:00 - 208. Great man
+00:00:00 - 209. One way of asking for reasons
+00:00:00 - 210. Moderation in industriousness
+00:00:00 - 211. Secret enemies
+00:00:00 - 212. Not to be deceived
+00:00:00 - 213. The way to happiness
+00:00:00 - 214. Faith makes blessed
+00:00:00 - 215. Ideal and material
+00:00:00 - 216. Danger in the voice
+00:00:00 - 217. Cause and effect
+00:00:00 - 218. My antipathy
+00:00:00 - 219. The purpose of punishment
+00:00:00 - 220. Sacrifice
+00:00:00 - 221. Consideration
+00:00:00 - 222. Poet and liar
+00:00:00 - 223. Vicarious senses
+00:00:00 - 224. Animals as critics
+00:00:00 - 225. The natural
+00:00:00 - 226. Mistrust and style
+00:00:00 - 227. Bad reasoning, bad shot
+00:00:00 - 228. Against mediators
+00:00:00 - 229. Obstinacy and faithfulness
+00:00:00 - 230. Dearth of silence
+00:00:00 - 231. The “thorough”
+00:00:00 - 232. Dreams
+00:00:00 - 233. The most dangerous point of view
+00:00:00 - 234. A musician’s comfort
+00:00:00 - 235. Spirit and character
+00:00:00 - 236. To move the crowd
+00:00:00 - 237. Polite
+00:00:00 - 238. Without envy
+00:00:00 - 239. Joyless
+00:00:00 - 240. At the sea
+00:00:00 - 241. Work and artist
+00:00:00 - 242. Suum cuique
+00:00:00 - 243. Origin of “good” and “bad”
+00:00:00 - 244. Thoughts and words
+00:00:00 - 245. Praise by choice
+00:00:00 - 246. Mathematics
+00:00:00 - 247. Habit
+00:00:00 - 248. Books
+00:00:00 - 249. The sigh of the search for knowledge
+00:00:00 - 250. Guilt
+00:00:00 - 251. Misunderstood sufferers
+00:00:00 - 252. Better a debtor
+00:00:00 - 253. Always at home
+00:00:00 - 254. Against embarrassment
+00:00:00 - 255. Imitators
+00:00:00 - 256. Skin-coveredness
+00:00:00 - 257. From experience
+00:00:00 - 258. The denial of chance
+00:00:00 - 259. From paradise
+00:00:00 - 260. Multiplication table
+00:00:00 - 261. Originality
+00:00:00 - 262. Sub specie aeterni
+00:00:00 - 263. Without vanity
+00:00:00 - 264. What we do
+00:00:00 - 265. Ultimate skepsis
+00:00:00 - 266. Where cruelty is needed
+00:00:00 - 267. With a great goal
+00:00:00 - 268. What makes one heroic?
+00:00:00 - 269. In what do you believe?
+00:00:00 - 270. What does your conscience say?
+00:00:00 - 271. Where are your greatest dangers?
+00:00:00 - 272. What do you love in others?
+00:00:00 - 273. Whom do you call bad?
+00:00:00 - 274. What do you consider most humane?
+00:00:00 - 275. What is the seal of liberation?
+00:00:00 - BOOK FOUR: Sanctus Januarius
+00:00:00 - 276. For the new year
+00:00:00 - 277. Personal providence
+00:00:00 - 278. The thought of death
+00:00:00 - 279. Star friendship
+00:00:00 - 280. Architecture for the search for knowledge
+00:00:00 - 281. Knowing how to end
+00:00:00 - 282. Gait
+00:00:00 - 283. Preparatory human beings
+00:00:00 - 284. Faith in oneself
+00:00:00 - 285. Excelsior
+00:00:00 - 286. Interruption
+00:00:00 - 287. Delight in blindness
+00:00:00 - 288. Elevated moods
+00:00:00 - 289. Embark!
+00:00:00 - 290. One thing is needful
+00:00:00 - 291. Genoa
+00:00:00 - 292. To those who preach morals
+00:00:00 - 293. Our air
+00:00:00 - 294. Against the slanderers of nature
+00:00:00 - 295. Brief habits
+00:00:00 - 296. A firm reputation
+00:00:00 - 297. The ability to contradict
+00:00:00 - 298. Sigh
+00:00:00 - 299. What one should learn from artists
+00:00:00 - 300. Preludes of science
+00:00:00 - 301. The fancy of the contemplatives
+00:00:00 - 302. The danger of the happiest
+00:00:00 - 303. Two who are happy
+00:00:00 - 304. By doing we forego
+00:00:00 - 305. Self-control
+00:00:00 - 306. Stoics and Epicureans
+00:00:00 - 307. In favor of criticism
+00:00:00 - 308. The history of every day
+00:00:00 - 309. From the seventh solitude
+00:00:00 - 310. Will and wave
+00:00:00 - 311. Refracted light
+00:00:00 - 312. My dog
+00:00:00 - 313. No image of torture
+00:00:00 - 314. New domestic animals
+00:00:00 - 315. On the last hour
+00:00:00 - 316. Prophetic human beings
+00:00:00 - 317. Looking back
+00:00:00 - 318. Wisdom in pain
+00:00:00 - 319. As interpreters of our experiences
+00:00:00 - 320. Upon seeing each other again
+00:00:00 - 321. New caution
+00:00:00 - 322. Parable
+00:00:00 - 323. Good luck in fate
+00:00:00 - 324. In media vita
+00:00:00 - 325. What belongs to greatness
+00:00:00 - 326. The physicians of the soul and pain
+00:00:00 - 327. Taking seriously
+00:00:00 - 328. To harm stupidity
+00:00:00 - 329. Leisure and idleness
+00:00:00 - 330. Applause
+00:00:00 - 331. Better deaf than deafened
+00:00:00 - 332. The evil hour
+00:00:00 - 333. The meaning of knowing
+00:00:00 - 334. One must learn to love
+00:00:00 - 335. Long live physics!
+00:00:00 - 336. Nature’s stinginess
+00:00:00 - 337. The “humaneness” of the future
+00:00:00 - 338. The will to suffer and those who feel pity
+00:00:00 - 339. Vita femina
+00:00:00 - 340. The dying Socrates
+00:00:00 - 341. The greatest weight
+00:00:00 - 342. Incipit tragoedia
+00:00:00 - BOOK FIVE: We Fearless Ones
+00:00:00 - 343. The meaning of our cheerfulness
+00:00:00 - 344. How we, too, are still pious
+00:00:00 - 345. Morality as a problem
+00:00:00 - 346. Our question mark
+00:00:00 - 347. Believers and their need to believe
+00:00:00 - 348. On the origin of scholars
+00:00:00 - 349. Once more the origin of scholars
+00:00:00 - 350. In honor of the homines religiosi
+00:00:00 - 351. In honor of the priestly type
+00:00:00 - 352. How morality is scarcely dispensable
+00:00:00 - 353. On the origin of religions
+00:00:00 - 354. On the “genius of the species”
+00:00:00 - 355. The origin of our concept of “knowledge”
+00:00:00 - 356. How things will become ever more “artistic” in Europe
+00:00:00 - 357. On the old problem: “What is German?”
+00:00:00 - 358. The peasant rebellion of the spirit
+00:00:00 - 359. The revenge against the spirit and other ulterior motives of morality
+00:00:00 - 360. Two kinds of causes that are often confounded
+00:00:00 - 361. On the problem of the actor
+00:00:00 - 362. Our faith that Europe will become more virile
+00:00:00 - 363. How each sex has its own prejudice about love
+00:00:00 - 364. The hermit speaks
+00:00:00 - 365. The hermit speaks once more
+00:00:00 - 366. Faced with a scholarly book
+00:00:00 - 367. The first distinction to be made regarding works of art
+00:00:00 - 368. The cynic speaks
+00:00:00 - 369. Our side by side
+00:00:00 - 370. What is romanticism?
+00:00:00 - 371. We incomprehensible ones
+00:00:00 - 372. Why we are no idealists
+00:00:00 - 373. “Science” as a prejudice
+00:00:00 - 374. Our new “infinite”
+00:00:00 - 375. Why we look like Epicureans
+00:00:00 - 376. Our slow periods
+00:00:00 - 377. We who are homeless
+00:00:00 - 378. “And become bright again”
+00:00:00 - 379. The fool interrupts
+00:00:00 - 380. “The wanderer” speaks
+00:00:00 - 381. On the question of being understandable
+00:00:00 - 382. The great health
+00:00:00 - 383. Epilogue
+
