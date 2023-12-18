@@ -27,35 +27,35 @@ OUTLINE:
 00:59:59 - 25. Not predestined for knowledge
 01:00:50 - 26. What is life?
 01:01:22 - 27. The man of renunciation
-00:00:00 - 28. To be harmful with what is best in us
-00:00:00 - 29. Add lies
-00:00:00 - 30. The comedy played by the famous
-00:00:00 - 31. Trade and nobility
-00:00:00 - 32. Undesirable disciples
-00:00:00 - 33. Outside the lecture hall
-00:00:00 - 34. Historia abscondita
-00:00:00 - 35. Heresy and witchcraft
-00:00:00 - 36. Last words
-00:00:00 - 37. Owing to three errors
-00:00:00 - 38. The explosive ones
-00:00:00 - 39. Changed taste
-00:00:00 - 40. On the lack of noble manners
-00:00:00 - 41. Against remorse
-00:00:00 - 42. Work and boredom
-00:00:00 - 43. What laws betray
-00:00:00 - 44. Supposed motives
-00:00:00 - 45. Epicurus
-00:00:00 - 46. Our amazement
-00:00:00 - 47. On the suppression of the passions
-00:00:00 - 48. Knowledge of misery
-00:00:00 - 49. Magnanimity and related matters
-00:00:00 - 50. The argument of growing solitude
-00:00:00 - 51. Truthfulness
-00:00:00 - 52. What others know about us
-00:00:00 - 53. Where the good begins
-00:00:00 - 54. The consciousness of appearance
-00:00:00 - 55. The ultimate noblemindedness
-00:00:00 - 56. The craving for suffering
+01:02:20 - 28. To be harmful with what is best in us
+01:03:32 - 29. Add lies
+01:04:19 - 30. The comedy played by the famous
+01:05:50 - 31. Trade and nobility
+01:07:17 - 32. Undesirable disciples
+01:08:02 - 33. Outside the lecture hall
+01:08:39 - 34. Historia abscondita
+01:09:06 - 35. Heresy and witchcraft
+01:09:59 - 36. Last words
+01:11:24 - 37. Owing to three errors
+01:12:15 - 38. The explosive ones
+01:12:51 - 39. Changed taste
+01:14:09 - 40. On the lack of noble manners
+01:16:15 - 41. Against remorse
+01:16:41 - 42. Work and boredom
+01:18:32 - 43. What laws betray
+01:20:11 - 44. Supposed motives
+01:20:39 - 45. Epicurus
+01:21:29 - 46. Our amazement
+01:22:43 - 47. On the suppression of the passions
+01:24:08 - 48. Knowledge of misery
+01:27:00 - 49. Magnanimity and related matters
+01:28:49 - 50. The argument of growing solitude
+01:29:27 - 51. Truthfulness
+01:29:50 - 52. What others know about us
+01:30:14 - 53. Where the good begins
+01:30:54 - 54. The consciousness of appearance
+01:32:31 - 55. The ultimate noblemindedness
+01:33:57 - 56. The craving for suffering
 00:00:00 - BOOK TWO
 00:00:00 - 57. To the realists
 00:00:00 - 58. Only as creators!
@@ -387,4 +387,3 @@ OUTLINE:
 00:00:00 - 381. On the question of being understandable
 00:00:00 - 382. The great health
 00:00:00 - 383. Epilogue
-
